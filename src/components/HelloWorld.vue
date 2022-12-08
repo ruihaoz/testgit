@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-   Version 2
+   Version 3
   </div>
 </template>
 
