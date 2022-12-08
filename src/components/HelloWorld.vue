@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-   Version hot fix version
+   conflict hot fix commit
   </div>
 </template>
 
