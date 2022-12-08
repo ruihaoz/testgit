@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-   Version 3
+   Version hot fix version
   </div>
 </template>
 
